@@ -57,9 +57,8 @@ Após a execução, o arquivo **Excel** com os dados extraídos será disponibil
 * **Exportação para Excel**: Os dados extraídos são organizados em uma planilha Excel para fácil análise.
 * **Limpeza de arquivos**: Após a extração, os arquivos PDF enviados são removidos automaticamente.
 
-## 📸 Captura de Tela
+## 📊 Exemplo de estrutura de dados extraídos:
 
-* Exemplo de estrutura de dados extraídos:
 
 | Arquivo   | Número da Nota  | CNPJ Tomador       | Valor dos Serviços (R\$) | Valor Líquido (R\$) | Total Retenções (R\$) |
 | --------- | --------------- | ------------------ | ------------------------ | ------------------- | --------------------- |
